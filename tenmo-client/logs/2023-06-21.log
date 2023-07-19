@@ -1,0 +1,39 @@
+2023-06-11T12:44:16.5462152 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:44:34.6399374 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:45:28.6809072 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:46:34.7818393 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:50:42.4947039 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:51:29.5918612 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:51:51.0968339 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:56:43.0261984 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:57:38.8238872 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:58:30.1872013 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T12:58:59.1925286 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T13:00:48.3704865 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T13:03:31.9719638 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-06-11T14:10:56.0214669 401 : [no body]
+2023-06-11T14:52:28.6484284 404 : [{"timestamp":"2023-06-11T18:52:28.613+00:00","status":404,"error":"Not Found","message":"No message available","path":"/"}]
+2023-06-11T15:04:12.0603473 401 : [no body]
+2023-06-11T15:04:26.3392867 404 : [{"timestamp":"2023-06-11T19:04:26.334+00:00","status":404,"error":"Not Found","message":"No message available","path":"/"}]
+2023-06-11T15:10:21.43184 404 : [{"timestamp":"2023-06-11T19:10:21.390+00:00","status":404,"error":"Not Found","message":"No message available","path":"/"}]
+2023-06-11T15:11:21.9322595 404 : [{"timestamp":"2023-06-11T19:11:21.903+00:00","status":404,"error":"Not Found","message":"No message available","path":"/"}]
+2023-06-11T15:14:42.1042714 404 : [{"timestamp":"2023-06-11T19:14:42.058+00:00","status":404,"error":"Not Found","message":"No message available","path":"/"}]
+2023-06-11T15:17:52.7007825 404 : [{"timestamp":"2023-06-11T19:17:52.669+00:00","status":404,"error":"Not Found","message":"No message available","path":"/"}]
+2023-06-11T15:27:21.8100154 404 : [{"timestamp":"2023-06-11T19:27:21.732+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId/1012"}]
+2023-06-11T15:38:40.8187603 404 : [{"timestamp":"2023-06-11T19:38:40.783+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId/1012"}]
+2023-06-11T15:45:38.7395936 404 : [{"timestamp":"2023-06-11T19:45:38.703+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId1012"}]
+2023-06-11T15:48:54.8165252 404 : [{"timestamp":"2023-06-11T19:48:54.777+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId1012"}]
+2023-06-11T15:53:23.0194974 404 : [{"timestamp":"2023-06-11T19:53:22.983+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId1012"}]
+2023-06-11T15:54:46.2431114 404 : [{"timestamp":"2023-06-11T19:54:46.209+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId1012"}]
+2023-06-11T15:55:27.9023235 404 : [{"timestamp":"2023-06-11T19:55:27.864+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId1012"}]
+2023-06-11T15:55:59.6013446 404 : [{"timestamp":"2023-06-11T19:55:59.566+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId/1012"}]
+2023-06-11T15:59:10.0871435 404 : [{"timestamp":"2023-06-11T19:59:10.056+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId/1012"}]
+2023-06-11T16:00:21.2710305 404 : [{"timestamp":"2023-06-11T20:00:21.239+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId/1012"}]
+2023-06-11T16:05:23.9991997 404 : [{"timestamp":"2023-06-11T20:05:23.967+00:00","status":404,"error":"Not Found","message":"No message available","path":"/findByUserId/1012"}]
+2023-06-21T16:49:47.2304823 401 : [no body]
+2023-06-21T16:55:14.3997897 500 : [{"timestamp":"2023-06-21T20:55:14.360+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (528 bytes)]
+2023-06-21T16:58:59.9706224 500 : [{"timestamp":"2023-06-21T20:58:59.924+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (528 bytes)]
+2023-06-21T16:59:05.8832544 401 : [no body]
+2023-06-21T18:07:25.5002346 500 : [{"timestamp":"2023-06-21T22:07:25.410+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (528 bytes)]
+2023-06-21T18:07:43.0446549 401 : [no body]
+2023-06-21T18:08:13.480775 401 : [no body]
